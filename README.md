@@ -17,7 +17,7 @@ Yılanı kontrol etmek için aşağıdaki tuşları kullanabilirsiniz:
 - Yılan, yemleri yediğinde uzar ve puan alırsınız, bonus yiyecek için daha fazla puan kazanılır.
 - Yılanın vücuduyla çarpışırsanız veya oyun alanı dışına çıkarsanız, oyun biter.
 
-## Nasıl Oynanır
+## [Buraya tıklayarak siteye gidebilirsiniz]([https://fbturan.github.io/ToDoList/to_do.html](https://github.com/fbturan/Snake-Game/blob/main/snake.html)https://github.com/fbturan/Snake-Game/blob/main/snake.html)
 
 
 
